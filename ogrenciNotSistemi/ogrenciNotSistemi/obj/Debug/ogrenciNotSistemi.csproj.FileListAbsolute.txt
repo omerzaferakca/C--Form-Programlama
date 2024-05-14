@@ -1,0 +1,10 @@
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\bin\Debug\ogrenciNotSistemi.exe.config
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\bin\Debug\ogrenciNotSistemi.exe
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\bin\Debug\ogrenciNotSistemi.pdb
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\obj\Debug\ogrenciNotSistemi.csproj.AssemblyReference.cache
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\obj\Debug\ogrenciNotSistemi.Form1.resources
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\obj\Debug\ogrenciNotSistemi.Properties.Resources.resources
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\obj\Debug\ogrenciNotSistemi.csproj.GenerateResource.cache
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\obj\Debug\ogrenciNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\obj\Debug\ogrenciNotSistemi.exe
+C:\Users\omerz\OneDrive\Masaüstü\C#\ogrenciNotSistemi\ogrenciNotSistemi\obj\Debug\ogrenciNotSistemi.pdb

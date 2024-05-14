@@ -1,0 +1,13 @@
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\bin\Debug\personelKayit.exe.config
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\bin\Debug\personelKayit.exe
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\bin\Debug\personelKayit.pdb
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.AssemblyReference.cache
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.Properties.Resources.resources
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.GenerateResource.cache
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.CoreCompileInputs.cache
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.exe
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.pdb
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.frmIstatistik.resources
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.frmAnaForm.resources
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.frmGrafikler.resources
+C:\Users\omerz\OneDrive\Masaüstü\C#\personelKayit\personelKayit\obj\Debug\personelKayit.frmGiris.resources
